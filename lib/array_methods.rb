@@ -2,9 +2,9 @@ def using_include(array, element)
   array.include?("tardis")
   array.include?("wow")
 end
-  array.sort
-def using_sort(array)
 
+def using_sort(array)
+  array.sort
 end
 
 def using_reverse(array)
